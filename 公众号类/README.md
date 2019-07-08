@@ -1,5 +1,5 @@
 
-# awesome-security-weixin-official-accounts
+# 公众号类
 网络安全类公众号推荐
 
 - [目录分类]()
