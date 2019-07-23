@@ -25,3 +25,9 @@ Shodan是一个搜素互联网链接设备的搜索引擎，不同于Google、Ba
 
 nmap是一个网络连接端扫描软件，用来扫描网上电脑开放的网络连接端。确定哪些服务运行在哪些连接端，并且推断计算机运行哪个操作系统（这是亦称 fingerprinting）。它是网络管理员必用的软件之一，以及用以评估网络系统安全。
 
+---
+[subDomainsBrute](https://github.com/lijiejie/subDomainsBrute)
+
+本工具用于渗透测试目标域名收集。高并发DNS暴力枚举，发现其他工具无法探测到的域名, 如Google，aizhan，fofa。
+
+---
